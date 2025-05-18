@@ -7,6 +7,7 @@ body {
 }
 
 .menu-container {
+  position: relative;
   max-width: 75%;
   margin: 40px auto;
   background: #151519ca;
@@ -44,6 +45,14 @@ h4 {
   grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
   gap: 15px;
   margin-top: 20px;
+}
+
+.logoMarca {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 15%; /* ajustable */
+  height: auto;
 }
 
 .card {
