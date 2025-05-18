@@ -1,15 +1,16 @@
-// Merienda:
+// Dulce:
 document.getElementById("precio-tatinN").textContent = `$${precios.TatinN}`;
 document.getElementById("precio-tatinB").textContent = `$${precios.TatinB}`;
-document.getElementById("precio-pebete").textContent = `$${precios.Pebete}`;
-document.getElementById("precio-papitas").textContent = `$${precios.Papitas}`;
-// Caramelos:
-document.getElementById("precio-chupetin").textContent = `$${precios.Chupetin}`;
+document.getElementById("precio-barraC").textContent = `$${precios.BarraC}`;
+document.getElementById("precio-chupetinC").textContent = `$${precios.ChupetinC}`;
+document.getElementById("precio-chupetinS").textContent = `$${precios.ChupetinS}`;
 document.getElementById("precio-chicleM").textContent = `$${precios.ChicleM}`;
 document.getElementById("precio-chicleF").textContent = `$${precios.ChicleF}`;
-// Almuerzo:
-document.getElementById("precio-milanesa").textContent = `$${precios.Sanguche_Milanesa}`;
+// Salado:
+document.getElementById("precio-papitas").textContent = `$${precios.Papitas}`;
+document.getElementById("precio-saladix").textContent = `$${precios.Saladix}`;
 // Bebidas:
-document.getElementById("precio-cocacola").textContent = `$${precios.Coca_cola}`;
-document.getElementById("precio-sprite").textContent = `$${precios.Sprite}`;
-document.getElementById("precio-bagio").textContent = `$${precios.Bagio}`;
+document.getElementById("precio-bagioM").textContent = `$${precios.BagioM}`;
+document.getElementById("precio-bagioN").textContent = `$${precios.BagioN}`;
+document.getElementById("precio-bagioD").textContent = `$${precios.BagioD}`;
+document.getElementById("precio-bagioMu").textContent = `$${precios.BagioMu}`;

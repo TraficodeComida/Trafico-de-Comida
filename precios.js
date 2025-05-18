@@ -1,17 +1,20 @@
 const precios = {
-  // Merienda:
+  // Dulce:
   TatinN: 500,
   TatinB: 500,
-  Pebete: 1000,
-  Papitas: 600,
-  // Caramelos:
-  Chupetin: 150,
-  ChicleM: 900,
-  ChicleF: 900,
-  // Almuerzo:
-  Sanguche_Milanesa: "???",
+  ChupetinC: 200,
+  ChupetinS: 200,
+  ChicleM: 500,
+  ChicleF: 500,
+  BarraC: 450,
+
+  // Salado:
+  Saladix: 1500,
+  Papitas: 0,
+
   // Bebidas.
-  Coca_cola: 1000,
-  Sprite: 1000,
-  Bagio: "???",
+  BagioM: 600,
+  BagioN: 600,
+  BagioD: 600,
+  BagioMu: 600,
 };

@@ -15,12 +15,8 @@ body {
   border-radius: 10px;
 }
 
-h1 {
-  text-align: center;
-  font-size: 3em;
-  margin-bottom: 40px;
-  color: #ffad14;
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
+.con-chicle{
+  color: rgb(173, 178, 122);
 }
 
 h2 {
@@ -31,6 +27,10 @@ h2 {
   border-bottom: 3px solid #444;
   margin-top: 40px;
   padding-bottom: 5px;
+}
+
+h3{
+  color: red;
 }
 
 h4 {
