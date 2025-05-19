@@ -8,6 +8,8 @@ document.getElementById("precio-chicleM").textContent = `$${precios.ChicleM}`;
 document.getElementById("precio-chicleF").textContent = `$${precios.ChicleF}`;
 // Salado:
 document.getElementById("precio-papitas").textContent = `$${precios.Papitas}`;
+document.getElementById("precio-ringsP").textContent = `$${precios.RingsPizza}`;
+document.getElementById("precio-rex").textContent = `$${precios.GalletasR}`;
 document.getElementById("precio-saladix").textContent = `$${precios.Saladix}`;
 // Bebidas:
 document.getElementById("precio-bagioM").textContent = `$${precios.BagioM}`;

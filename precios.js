@@ -10,7 +10,9 @@ const precios = {
 
   // Salado:
   Saladix: 1500,
-  Papitas: 0,
+  GalletasR: 1000,
+  RingsPizza: 2000,
+  Papitas: "?",
 
   // Bebidas.
   BagioM: 600,
